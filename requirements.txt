@@ -1,0 +1,8 @@
+requests
+time
+json
+os
+io
+qrcode
+random
+datetime
